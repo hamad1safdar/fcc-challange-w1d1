@@ -1,8 +1,8 @@
 # Week 2 Day 1
 
-This repo contains the challanges covered under **Week 2 Day 1**.
+This repo contains the challenges covered under **Week 2 Day 1**.
 
-## Challanges Covered
+## Challenges Covered
 
 - [Task 1: Telephone number validator](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/telephone-number-validator/)
 - [Task 2: Caesars Cipher](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/javascript-algorithms-and-data-structures-projects/caesars-cipher/)
